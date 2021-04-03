@@ -1,6 +1,7 @@
 # Rainfall Prediction Model
 The purpose of this project is to deploy a machine learning model to predict daily rainfall in Australia. The resulting model is deployed in the cloud.  
 
+<img alt="GIF" src="rainfall.gif" width = 400/>
 
 ## Data
 The rainfall data is large dataset (>5GB) and is collected from [figshare](https://figshare.com/articles/dataset/Daily_rainfall_over_NSW_Australia/14096681) (Beuzen).
