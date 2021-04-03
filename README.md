@@ -1,6 +1,8 @@
 # Rainfall Prediction Model
 The purpose of this project is to deploy a machine learning model to predict daily rainfall in Australia. The resulting model is deployed in the cloud.  
 
+[Source](https://dribbble.com/shots/4922240-Biking-in-the-rain-animation)
+<br>
 <img alt="GIF" src="rainfall.gif" width = 400/>
 
 ## Data
